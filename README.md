@@ -1,4 +1,4 @@
-# serverest-qa-automation
+# ServeRest QA Automation
 Projeto completo de Quality Assurance contendo testes manuais, testes de API, automação web, BDD, testes de performance e CI/CD utilizando ferramentas amplamente utilizadas pelo mercado.
 
 # 🚀 ServeRest QA Automation Portfolio
