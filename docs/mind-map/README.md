@@ -59,7 +59,3 @@ A utilização do mapa mental permite:
 * Planejamento de cenários positivos e negativos.
 * Rastreabilidade dos requisitos.
 * Priorização dos testes.
-
-## Artefato
-
-![Mapa Mental de Testes](serverest-test-map.png)
